@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @lSchmunck
 - 👀 I’m interested in learning Python and becoming a software engineer
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C#
 - 📫 How to reach me: logan.schmunck@gmail.com
