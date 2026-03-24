@@ -2,3 +2,6 @@
 - 👀 I’m interested in becoming a software engineer
 - 🌱 I’m currently learning C#
 - 📫 How to reach me: logan.schmunck@gmail.com
+- I make music as a hobby
+- I am currently developing a remake of Tankgrounds, with a fully original soundtrack by yours truly, as well as art drawn by my talented friends
+- Anti-Generative Ai, long live artists, creators, and humanity!
